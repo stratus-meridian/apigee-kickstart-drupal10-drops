@@ -1,0 +1,19 @@
+{
+  "name": "drupal/file_link",
+  "description": "Extends the core Link module by storing metadata about the target file.",
+  "type": "drupal-module",
+  "homepage": "http://drupal.org/project/file_link",
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "authors": [
+    {
+      "name": "Claudiu Cristea",
+      "homepage": "https://www.drupal.org/u/claudiu.cristea"
+    }
+  ],
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/file_link",
+    "source": "https://git.drupalcode.org/project/file_link"
+  }
+}

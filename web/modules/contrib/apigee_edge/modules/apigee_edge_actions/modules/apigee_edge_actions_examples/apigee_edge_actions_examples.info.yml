@@ -1,0 +1,16 @@
+name: Apigee Edge Actions Examples
+description: Example rules for Apigee Edge.
+package: Apigee (Experimental)
+type: module
+core_version_requirement: ^10
+configure: entity.rules_reaction_rule.collection
+dependencies:
+  - apigee_edge_actions:apigee_edge_actions
+  - apigee_edge:apigee_edge
+  - apigee_edge_teams:apigee_edge_teams
+  - rules:rules
+
+# Information added by Drupal.org packaging script on 2024-02-13
+version: '3.0.6'
+project: 'apigee_edge'
+datestamp: 1707837461

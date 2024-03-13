@@ -1,0 +1,8 @@
+{
+  "require": {
+    "drupal/jquery_ui": "^1.6",
+    "drupal/jquery_ui_button": "^2",
+    "drupal/jquery_ui_draggable": "^2",
+    "drupal/jquery_ui_resizable": "^2"
+  }
+}
